@@ -71,6 +71,14 @@ button, html input[type="button"],/* 1 */ input[type="reset"], input[type="submi
 
 }
 
+.textcenter {
+	text-align: center;
+}
+
+.whiteanchor {
+	color: white;
+}
+
 body, img,.commentys-form input[type="text"],.commentys-form input[type="email"],.commentys-form input[type="url"],.commentys-form textarea {
 
 	transition: all .2s linear;
